@@ -1,0 +1,26 @@
+_repo: Folly-Corner_69758
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dudeney, Mrs. H.
+    gutenberg_agent_id: '55404'
+    url: http://www.gutenberg.org/2009/agents/55404
+description: ''
+gutenberg_issued: '2023-01-09'
+identifiers:
+  gutenberg: '69758'
+language: en
+pgterms:marc904: https://books.google.com/books?id=KSXQAAAAMAAJ, https://hdl.handle.net/2027/wu.89011718319
+pgterms:marc905: 20210925182718dudeney
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Paul Haxo from images generously made available by the University
+  of Wisconsin, Google and the Hathi Trust Digital Library.
+publication_note: 'United States: Henry Holt and Company,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Folly Corner
+url: http://www.gutenberg.org/ebooks/69758
