@@ -1,11 +1,16 @@
 _repo: Folly-Corner_69758
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69758-h/images/cover.jpg
 creator:
   author:
     agent_name: Dudeney, Mrs. H.
     gutenberg_agent_id: '55404'
     url: http://www.gutenberg.org/2009/agents/55404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69758#Folly-Corner
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69758'
